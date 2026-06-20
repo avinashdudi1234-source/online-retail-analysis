@@ -56,7 +56,7 @@ Connected the cleaned data into Power BI and built a single-page interactive das
 
 ## Dashboard Preview
 
-![Online Retail Performance Dashboard screenshot] ("C:\Users\Asus\Downloads\projects\images")
+![Online Retail Performance Dashboard screenshot] ("images\dashboard.png")
 
 ## Files in This Repository
 
